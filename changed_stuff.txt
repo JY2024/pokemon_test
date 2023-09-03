@@ -1,3 +1,4 @@
+(if you're looking through this repo, dont worry about this)
 changed:
 
 urls for maven google and cloud google. originals: maven.google.com and cloud.google.com
