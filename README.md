@@ -1,6 +1,7 @@
 # pokemon_test
 
 From a Youtube tutorial (just to see how Flutter works)
+LOOK THROUGH LIB FOLDER
 
 ## Getting Started
 
