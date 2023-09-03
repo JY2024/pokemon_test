@@ -1,6 +1,6 @@
 # pokemon_test
 
-A new Flutter project.
+From a Youtube tutorial (just to see how Flutter works)
 
 ## Getting Started
 
