@@ -1,0 +1,7 @@
+changed:
+
+urls for maven google and cloud google. originals: maven.google.com and cloud.google.com
+environment variables within project itself (2 of them), pu_dev and storage_flutter or something (go to the flutter china page)
+your_project/android/app/build.gradle ---> changed compile sdk ver and target sdk ver
+
+for next project, everything should be fine...
